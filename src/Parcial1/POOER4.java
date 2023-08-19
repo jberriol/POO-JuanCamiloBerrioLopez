@@ -1,3 +1,5 @@
+package Parcial1;
+
 import java.util.Scanner;
 
 
