@@ -32,7 +32,7 @@ public class POOEP23 {
             System.out.println("Las soluciones son " + sol1 + " y " + sol2);}
          else if (discriminante == 0){
             sol = -B / (2 * A);
-            System.out.println("La solución es" + sol);}
+            System.out.println("La solucion es" + sol);}
          else {
             partereal = -B/(2*A);
             parteimag = Math.sqrt(-discriminante)/(2*A);

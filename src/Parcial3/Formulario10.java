@@ -42,7 +42,7 @@ public class Formulario10 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Número de inscripción");
+        jLabel1.setText("Numero de inscripcion");
 
         jLabel2.setText("Nombres");
 

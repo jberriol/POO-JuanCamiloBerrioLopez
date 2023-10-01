@@ -49,7 +49,7 @@ public class Formulario18 extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Código");
+        jLabel1.setText("Codigo");
 
         jLabel2.setText("Nombres");
 

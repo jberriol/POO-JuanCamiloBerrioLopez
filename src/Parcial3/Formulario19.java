@@ -66,7 +66,7 @@ public class Formulario19 extends javax.swing.JFrame {
 
         jLabel1.setText("Lado");
 
-        jLabel2.setText("Perímetro");
+        jLabel2.setText("Perimetro");
 
         jLabel3.setText("Altura");
 

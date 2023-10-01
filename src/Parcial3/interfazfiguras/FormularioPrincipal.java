@@ -87,7 +87,7 @@ public class FormularioPrincipal extends javax.swing.JFrame {
             }
         });
 
-        jLabel7.setText("Radio círculo");
+        jLabel7.setText("Radio circulo");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);

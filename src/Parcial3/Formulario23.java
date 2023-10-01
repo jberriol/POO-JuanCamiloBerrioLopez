@@ -163,7 +163,7 @@ public class Formulario23 extends javax.swing.JFrame {
             txtSalida.setText("Las soluciones son " + sol1 + " y " + sol2);}
          else if (discriminante == 0){
             sol = -B / (2 * A);
-            txtSalida.setText("La solución es" + sol);}
+            txtSalida.setText("La solucion es" + sol);}
          else {
             partereal = -B/(2*A);
             parteimag = Math.sqrt(-discriminante)/(2*A);
